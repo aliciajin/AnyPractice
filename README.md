@@ -1,11 +1,8 @@
-Test from DataRobot
+Test #DataRobot
 
-By Yiqian Jin
-
+Yiqian Jin
 yj2342@columbia.edu
-
 Apr.26
-
 
 Topic: 
 Breast Cancer Prediction 
@@ -23,8 +20,6 @@ The .R script shows the whole process of this model building:
 2. Build the model in API using training data.
 
 3. Perform prediction on testing data and estimate the model.
-
-
 
 
 Thanks!
